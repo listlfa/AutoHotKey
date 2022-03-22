@@ -1,5 +1,6 @@
 ; https://www.autohotkey.com/docs/FAQ.htm
 ; 
+; stop/start with 'windows key' + j
 
 #MaxThreadsPerHotkey 3
 #z::  ; Win+Z hotkey (change this hotkey to suit your preferences).
